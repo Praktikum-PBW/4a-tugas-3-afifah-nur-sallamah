@@ -1,0 +1,55 @@
+.button{
+    background-color: gray;
+    color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-family: Poppins;
+    font-weight: bold;   
+    margin-top: 10px; 
+}
+.button1{
+    background-color: gray;
+    color: white;
+    width: 60px;
+    height: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-family: Poppins;
+    font-weight: bold;   
+    margin-top: 10px;   
+}
+
+.tabel{
+    background-color: ghostwhite;
+    margin: 10px;
+    border-style: double;
+    padding: 20px;
+    border-radius: 30px;
+    font-family: Poppins;
+    font-size: smaller;
+}
+
+.header{
+     color: black;
+     padding-bottom: 20px;
+     font-size: larger;
+}
+
+.hsl{
+     background-color: whitesmoke;
+     border-style: unset;
+     font-family: Poppins;
+     font-weight: bold;   
+}
+
+.input{
+    border-color: gray;
+    border-radius: 10px;
+    font-family: Poppins;
+}
+
+ 
